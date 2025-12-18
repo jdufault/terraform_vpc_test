@@ -1,0 +1,1 @@
+This is a simple test to deploy a series of virtual machines to the aws cloud using terraform. Eventually it will also setup networking, security groups, and other infrastructure components as needed.
